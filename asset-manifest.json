@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Deepika-r18/chow-food.git/static/css/main.db3767ca.css",
+    "main.js": "/Deepika-r18/chow-food.git/static/js/main.6939df5b.js",
+    "static/media/parotta.jpg": "/Deepika-r18/chow-food.git/static/media/parotta.76a82a6074a3974c75fd.jpg",
+    "static/media/veg meals.jpg": "/Deepika-r18/chow-food.git/static/media/veg meals.aa55499ce1279bbbf91f.jpg",
+    "static/media/background.jpg": "/Deepika-r18/chow-food.git/static/media/background.ae41aa7f9b574668e82e.jpg",
+    "static/media/veggie.jpg": "/Deepika-r18/chow-food.git/static/media/veggie.a51dcfc3b24fb6e20667.jpg",
+    "static/media/pizza offer.png": "/Deepika-r18/chow-food.git/static/media/pizza offer.7905ce0425d7cf49c1d3.png",
+    "static/media/offers.png": "/Deepika-r18/chow-food.git/static/media/offers.3a42add7ee9f0150546d.png",
+    "static/media/sea foods.png": "/Deepika-r18/chow-food.git/static/media/sea foods.02d539cf29e46157d15c.png",
+    "static/media/pasta.png": "/Deepika-r18/chow-food.git/static/media/pasta.99cde96c98d8f2d33ee9.png",
+    "static/media/chickentwo.png": "/Deepika-r18/chow-food.git/static/media/chickentwo.b1b6fa62e3b41ad3c67b.png",
+    "static/media/bg.png": "/Deepika-r18/chow-food.git/static/media/bg.ddc9701345045fc4584d.png",
+    "static/media/chicken.jpg": "/Deepika-r18/chow-food.git/static/media/chicken.5b76d19154c32f9c4874.jpg",
+    "static/media/bigburger.jpg": "/Deepika-r18/chow-food.git/static/media/bigburger.70ef3480eeb133cff660.jpg",
+    "static/media/fruitsalad.jpg": "/Deepika-r18/chow-food.git/static/media/fruitsalad.4eb7941a1366256e0725.jpg",
+    "static/media/biriyani.jpg": "/Deepika-r18/chow-food.git/static/media/biriyani.369d04ee107dca4e317e.jpg",
+    "static/media/bgcolon.png": "/Deepika-r18/chow-food.git/static/media/bgcolon.6f1ade9e168bf360b85d.png",
+    "static/media/good.svg": "/Deepika-r18/chow-food.git/static/media/good.ee30b194aac25ddcf3c5e5ca5c91613f.svg",
+    "static/media/chef.svg": "/Deepika-r18/chow-food.git/static/media/chef.20592b9841550d78353df2d2d7bd578b.svg",
+    "index.html": "/Deepika-r18/chow-food.git/index.html",
+    "main.db3767ca.css.map": "/Deepika-r18/chow-food.git/static/css/main.db3767ca.css.map",
+    "main.6939df5b.js.map": "/Deepika-r18/chow-food.git/static/js/main.6939df5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db3767ca.css",
+    "static/js/main.6939df5b.js"
+  ]
+}
