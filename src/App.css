@@ -1,0 +1,115 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header ul li{
+  @apply px-2;
+}
+
+/* Home Section */
+.background-img{
+  background-image: url('./assets/background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  
+}
+.bg-button{
+  width: 80px;
+  background: green;
+  border: 2px solid;
+  border: none;
+}
+.bg-button-two{
+  padding-top: 3px;
+  padding-bottom: 3px;
+  width: 150px;
+  background: none;
+  border: 3px solid;
+  border-color: white;
+}
+
+/* Menu Section */
+
+.menu-desc{
+  @apply absolute left-0 right-0 bottom-14 top-0 opacity-0 duration-500 hover:opacity-100;
+  background-color: transparent;
+  width: 300px;
+}
+
+.order-btn{
+  width: 80px;
+  background: rgb(244, 109, 109);
+  border: 2px solid;
+  border: none;
+  color: whitesmoke;
+  animation: btn-mv linear 10s infinite alternate;
+}
+@keyframes btn-mv{
+  to {
+    text-indent: -10ch;
+  }
+}
+
+.menu{
+  border-style: 2px solid;
+  border-radius: 25px;
+  border-color: gray;
+  
+}
+.menu:hover{
+  animation: zoom-out 0.8s ease infinite;
+}
+@keyframes zoom-out {
+  50% {
+    transform: scale(1, 1);
+  }
+  100% {
+    transform: scale(1.1, 1.1);
+  }
+}
+
+/* offers */
+.bg-offer{
+  background: linear-gradient(135deg, black, rgb(139, 56, 1));
+}
+
+.order-btn-two{
+  width: 165px;
+  background: rgb(155, 4, 4);
+  border: 2px solid;
+  border: none;
+  color: whitesmoke;
+  padding: 5px;
+  
+}
+
+
+/* about section */
+.bg-about{
+  background-image: url(assets/bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+/* contact section */
+.bg-contact{
+  background-color: black;
+  background-image: url(assets/bgcolon.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.bg-con{
+  background-color: orangered;
+}
+
+
+/* animations */
+.text{
+  animation: text-mv linear 5s infinite alternate;
+}
+@keyframes text-mv{
+  to {
+    text-indent: -10ch;
+  }
+}
