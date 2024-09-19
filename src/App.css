@@ -43,13 +43,14 @@ header ul li{
   border: 2px solid;
   border: none;
   color: whitesmoke;
+
   /* animation: btn-mv linear 10s infinite alternate; */
 }
 /* @keyframes btn-mv{
   to {
     text-indent: -10ch;
   }
-} */
+} 
 
 .menu{
   border-style: 2px solid;
