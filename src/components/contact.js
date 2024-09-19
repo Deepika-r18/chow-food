@@ -17,7 +17,7 @@ export default function Contact(){
     return<section className="py-11 font-hero-font bg-contact" id="contact">
 
         <h1 className='text-orange-700 flex justify-center text-5xl font-bold gap-7'>Contact us<FaceSmileIcon class="size-12 text-orange-600" /></h1>
-        <div className=" px-10 py-10 flex flex-col justify-center md:flex-row hover:text-orange-5000 gap-20 ">
+        <div className=" px-0 py-10 flex flex-col justify-center md:flex-row md:px-10 hover:text-orange-5000 gap-20 ">
             <div className='flex justify-center hover:text-orange-500 gap-2'>
                 <div>
                     <a href='#'><MapPinIcon class="size-6 text-white hover:text-orange-600" /></a>
