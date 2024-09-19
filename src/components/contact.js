@@ -51,7 +51,7 @@ export default function Contact(){
             <div className='px-28 md:px-96'>
                 <img src={logoimage} className='py-4 px-10' />
                 <div className='text-white py-5 flex gap-3 px-12 md:px-10 '>
-                    <a className='hover:text-orange-500' target='_blank' href='https://wa.me/9876543210'><FaWhatsapp size={25}/></a>
+                    <a className='hover:text-orange-500' target='_blank' href='https://www.instagram.com/accounts/login/?hl=en'><FaWhatsapp size={25}/></a>
                     <a className='hover:text-orange-500' target='_blank' href='https://www.instagram.com/accounts/login/?hl=en'><FaInstagram size={25}/></a>
                     <a className='hover:text-orange-500' target='_blank' href='https://www.facebook.com/login/'><FaFacebook size={25}/></a>
                     <a className='hover:text-orange-500' target='_blank' href='https://x.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJteCI6IjIifQ%3D%3D%22%7D'><FaTwitter size={25}/></a>
