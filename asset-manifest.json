@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chow-food/static/css/main.79c4d46f.css",
-    "main.js": "/chow-food/static/js/main.48809e5d.js",
+    "main.css": "/chow-food/static/css/main.0ee92673.css",
+    "main.js": "/chow-food/static/js/main.aa3d03b4.js",
     "static/media/parotta.jpg": "/chow-food/static/media/parotta.76a82a6074a3974c75fd.jpg",
     "static/media/veg meals.jpg": "/chow-food/static/media/veg meals.aa55499ce1279bbbf91f.jpg",
     "static/media/background.jpg": "/chow-food/static/media/background.ae41aa7f9b574668e82e.jpg",
@@ -20,11 +20,11 @@
     "static/media/good.svg": "/chow-food/static/media/good.ee30b194aac25ddcf3c5e5ca5c91613f.svg",
     "static/media/chef.svg": "/chow-food/static/media/chef.20592b9841550d78353df2d2d7bd578b.svg",
     "index.html": "/chow-food/index.html",
-    "main.79c4d46f.css.map": "/chow-food/static/css/main.79c4d46f.css.map",
-    "main.48809e5d.js.map": "/chow-food/static/js/main.48809e5d.js.map"
+    "main.0ee92673.css.map": "/chow-food/static/css/main.0ee92673.css.map",
+    "main.aa3d03b4.js.map": "/chow-food/static/js/main.aa3d03b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.79c4d46f.css",
-    "static/js/main.48809e5d.js"
+    "static/css/main.0ee92673.css",
+    "static/js/main.aa3d03b4.js"
   ]
 }
