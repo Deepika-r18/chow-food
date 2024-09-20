@@ -18,7 +18,7 @@ export default function Contact(){
 
         <h1 className='text-orange-700 flex justify-center text-5xl font-bold gap-7'>Contact us<FaceSmileIcon class="size-12 text-orange-600" /></h1>
         <div className="py-10 flex flex-col justify-center md:flex-row  hover:text-orange-5000 gap-5">
-            <div className='flex justify-center hover:text-orange-500 gap-2'>
+            <div className='flex hover:text-orange-500'>
                 <div>
                     <a href='#'><MapPinIcon class="size-6 text-white hover:text-orange-600" /></a>
                 </div>
