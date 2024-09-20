@@ -7,7 +7,7 @@ export default function Header(){
     const [toggleMenu, setToggleMenu] = useState(false);
 
     return <header className="flex justify-between px-5 py-4 font-hero-font">
-        <a className="font-bold text-gray-800 px-5 md:px-80 text-3xl" href="#"><img src= {logo}/></a>
+        <a className="font-bold text-gray-800 px-5  text-3xl" href="#"><img src= {logo}/></a>
         <nav className="hidden md:block px-10 py-3">
             <ul className="flex text-gray-500 font-bold lap-nav hover:decoration-slice ">
                 <li className=' hover:text-gray-900 px-5 text-1xl'><a href='#Home'>Home</a></li>
