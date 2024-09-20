@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/chow-food/static/css/main.9f0b7dab.css",
-    "main.js": "/chow-food/static/js/main.9e3f2269.js",
+    "main.js": "/chow-food/static/js/main.787dd371.js",
     "static/media/parotta.jpg": "/chow-food/static/media/parotta.76a82a6074a3974c75fd.jpg",
     "static/media/veg meals.jpg": "/chow-food/static/media/veg meals.aa55499ce1279bbbf91f.jpg",
     "static/media/background.jpg": "/chow-food/static/media/background.ae41aa7f9b574668e82e.jpg",
@@ -21,10 +21,10 @@
     "static/media/chef.svg": "/chow-food/static/media/chef.20592b9841550d78353df2d2d7bd578b.svg",
     "index.html": "/chow-food/index.html",
     "main.9f0b7dab.css.map": "/chow-food/static/css/main.9f0b7dab.css.map",
-    "main.9e3f2269.js.map": "/chow-food/static/js/main.9e3f2269.js.map"
+    "main.787dd371.js.map": "/chow-food/static/js/main.787dd371.js.map"
   },
   "entrypoints": [
     "static/css/main.9f0b7dab.css",
-    "static/js/main.9e3f2269.js"
+    "static/js/main.787dd371.js"
   ]
 }
