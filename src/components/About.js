@@ -17,18 +17,18 @@ export default function Offers(){
             <p className='text-gray-800 text-1xl'>Every dish is not just prepared it's crafted with a savor the a utmost precision and</p>
             <p className='text-gray-800 text-1xl'>a deep understanding sdf of flavor harmony. The experienced hands of out chefs.</p>
 
-            <div className='flex justify-center'>
-            <div className=" w-[400px] md:w-1/2 py-10">
+            <div className='flex justify-start md:justify-center'>
+            <div className=" w-[200px] md:w-1/2 py-10">
                 <img src={good}/>
                 <h1 className='text-2xl font-bold'>Super Quality Food</h1>
-                <p>Served out testy food & </p>
-                <p>good by fiendly</p>
+                <p className='text-1xl md:text-2xl'>Served out testy food & </p>
+                <p className='text-1xl md:text-2xl'>good by fiendly</p>
             </div>
-            <div className="w-[400px] md:w-1/2 py-10">
+            <div className="w-[200px] md:w-1/2 py-10">
                 <img src={chef}/>
                 <h1 className='text-2xl font-bold'>Quality Chef</h1>
-                <p>Served out testy food & </p>
-                <p>good by fiendly</p>
+                <p className='text-1xl md:text-2xl'>Served out testy food & </p>
+                <p className='text-1xl md:text-2xl'>good by fiendly</p>
             </div>
 
             </div>

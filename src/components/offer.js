@@ -8,8 +8,8 @@ export default function Offers(){
         <div className="flex flex-col justify-center md:flex-row px-10 py-10 gap-7">
             <div className="w-[400px] md:w-1/2 py-10">
                 <h1 className='text-orange-700 font-bold text-2xl'>Welcome CHOW</h1>
-                <h1 className='text-white py-3 font-bold text-5xl'>TODAY SPECIAL FOOD</h1>
-                <h1 className='text-orange-400 py-2 font-bold text-2xl'>Limited Time Offer</h1>
+                <p className='text-white py-3 font-bold text-1xl md:text-5xl'>TODAY SPECIAL FOOD</p>
+                <p className='text-orange-400 py-2 font-bold text-2xl'>Limited Time Offer</p>
                 <button className=' flex order-btn-two text-2xl py-4 hover:bg-orange-500 gap-2'>Order Now <ArrowRightIcon class="size-6 text-center" /></button>
             </div>
             <div className="w-[400px] md:w-1/2 ">

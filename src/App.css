@@ -28,6 +28,14 @@ header ul li{
   border: 3px solid;
   border-color: white;
 }
+html,body{
+  scroll-behavior: smooth;
+  height: 100%;
+  width: 100%;
+  overflow-x:hidden ;
+  margin: 0;
+  padding: 0;
+}
 
 /* Menu Section */
 
