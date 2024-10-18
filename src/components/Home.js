@@ -19,7 +19,7 @@ export default function Home(){
                     <p className='flex align-middle'><UserCircleIcon class="size-6" />By DP</p>
                 </div>
             </div>
-            <button className="text-white font-bold text-2xl bg-button-two ">View Recipes</button>
+            <button className="text-white font-bold text-2xl bg-button-two ">View Recipe</button>
         </div>
         
         
