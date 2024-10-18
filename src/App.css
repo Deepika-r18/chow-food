@@ -26,7 +26,12 @@ header ul li{
   width: 150px;
   background: none;
   border: 3px solid;
-  border-color: white;
+  border-color:cyan;
+}
+.bg-button-two:hover{
+  box-shadow: 0 0 5px cyan,
+  0 0 25px cyan, 0 0 50px cyan,
+  0 0 100px cyan, 0 0 200px cyan;
 }
 html,body{
   scroll-behavior: smooth;
